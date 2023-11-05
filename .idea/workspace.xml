@@ -4,15 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4f6e2d15-421c-4de2-98af-8e83f1bb9442" name="Changes" comment="sketch of the taks 1 OOP">
-      <change afterPath="$PROJECT_DIR$/src/ru/vsu/cs/util/lobtsov_d_a/task1_14/CycleLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/vsu/cs/util/lobtsov_d_a/task1_14/DoubleLinkedList.java" afterDir="false" />
+    <list default="true" id="4f6e2d15-421c-4de2-98af-8e83f1bb9442" name="Changes" comment="belive working task, that help me to take good mark">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/vsu/cs/util/lobtsov_d_a/task1_14/CircularLinkedList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/vsu/cs/util/lobtsov_d_a/task1_14/LinkedList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/vsu/cs/util/lobtsov_d_a/task1_14/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/vsu/cs/util/lobtsov_d_a/task1_14/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/vsu/cs/util/lobtsov_d_a/task1_14/Node.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/vsu/cs/util/lobtsov_d_a/task1_14/SimpleLinkedList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/vsu/cs/util/lobtsov_d_a/task1_14/CycleLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/vsu/cs/util/lobtsov_d_a/task1_14/CycleLinkedList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,7 +96,9 @@
       <workItem from="1695145472022" duration="32000" />
       <workItem from="1696790421373" duration="466000" />
       <workItem from="1697971462887" duration="67000" />
-      <workItem from="1697986904916" duration="2082000" />
+      <workItem from="1697986904916" duration="2431000" />
+      <workItem from="1698603422398" duration="13000" />
+      <workItem from="1699217999978" duration="341000" />
     </task>
     <task id="LOCAL-00001" summary="sketch of the taks 1 OOP">
       <option name="closed" value="true" />
@@ -112,7 +108,15 @@
       <option name="project" value="LOCAL" />
       <updated>1696790765190</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="belive working task, that help me to take good mark">
+      <option name="closed" value="true" />
+      <created>1697989288346</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1697989288346</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -120,6 +124,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="sketch of the taks 1 OOP" />
-    <option name="LAST_COMMIT_MESSAGE" value="sketch of the taks 1 OOP" />
+    <MESSAGE value="belive working task, that help me to take good mark" />
+    <option name="LAST_COMMIT_MESSAGE" value="belive working task, that help me to take good mark" />
   </component>
 </project>
