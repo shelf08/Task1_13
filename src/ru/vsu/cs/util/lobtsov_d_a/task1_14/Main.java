@@ -22,18 +22,18 @@ public class Main {
             }
         }
 
-        // init
+
         for (int i = 0; i < 20; i++) {
             list.add(i);
         }
         System.out.println();
 
 
-        // size
+
         System.out.println("list.size() = " + list.size());
         System.out.println();
 
-        // get
+
         System.out.println("Элемент по индексу 0 = " +  list.get(0));
         System.out.println();
         System.out.println("Элемент по индексу 5 = " +  list.get(5));
@@ -44,14 +44,14 @@ public class Main {
         try {
             System.out.print(  list.get(21));
         } catch (Exception e){
-            System.out.println(e.getMessage());
+            System.out.print(e.getMessage());
         }
         System.out.println();
-        System.out.println("list.get(-5) = ");
+        System.out.println("Элемент по индексу -5 =  ");
         try {
-            System.out.print(  list.get(-5));
+            System.out.print(list.get(-5));
         } catch (Exception e){
-            System.out.println(e.getMessage());
+            System.out.print(e.getMessage());
         }
         System.out.println();
         System.out.println();
@@ -73,7 +73,7 @@ public class Main {
         System.out.println();
         System.out.println();
 
-        // remove
+
         System.out.println(Arrays.toString(list.toArray()));
         System.out.println("Удаление элемента с индексом = " +  list.remove(19));
         System.out.println(Arrays.toString(list.toArray()));
@@ -84,7 +84,7 @@ public class Main {
         System.out.println(Arrays.toString(list.toArray()));
         System.out.println();
 
-        // add i
+
         System.out.println(Arrays.toString(list.toArray()));
         list.add(0, 52);
         System.out.println("Добавление элемента 52 в начало");
@@ -93,18 +93,18 @@ public class Main {
         System.out.println();
 
 
-        // size
+
         System.out.println("Размер списка");
         System.out.println("list.size() = " + list.size());
         System.out.println();
 
-        // clear
+
         System.out.println("Отчистили");
         list.clear();
         System.out.println(Arrays.toString(list.toArray()));
         System.out.println();
 
-        // size
+
         System.out.println("Размер списка после удаления");
         System.out.println("list.size() = " + list.size());
         System.out.println();

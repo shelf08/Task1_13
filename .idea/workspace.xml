@@ -7,6 +7,8 @@
     <list default="true" id="4f6e2d15-421c-4de2-98af-8e83f1bb9442" name="Changes" comment="belive working task, that help me to take good mark">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ru/vsu/cs/util/lobtsov_d_a/task1_14/CycleLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/vsu/cs/util/lobtsov_d_a/task1_14/CycleLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/vsu/cs/util/lobtsov_d_a/task1_14/DoubleLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/vsu/cs/util/lobtsov_d_a/task1_14/DoubleLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/vsu/cs/util/lobtsov_d_a/task1_14/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/vsu/cs/util/lobtsov_d_a/task1_14/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,6 +63,7 @@
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pathVariables&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -98,7 +101,17 @@
       <workItem from="1697971462887" duration="67000" />
       <workItem from="1697986904916" duration="2431000" />
       <workItem from="1698603422398" duration="13000" />
-      <workItem from="1699217999978" duration="341000" />
+      <workItem from="1699217999978" duration="531000" />
+      <workItem from="1699269305385" duration="1799000" />
+      <workItem from="1699551263536" duration="4344000" />
+      <workItem from="1699800445651" duration="12000" />
+      <workItem from="1699800467222" duration="26000" />
+      <workItem from="1700417121598" duration="1854000" />
+      <workItem from="1701026018763" duration="9000" />
+      <workItem from="1701247592316" duration="1251000" />
+      <workItem from="1701356803943" duration="35000" />
+      <workItem from="1701614359458" duration="438000" />
+      <workItem from="1701623455130" duration="669000" />
     </task>
     <task id="LOCAL-00001" summary="sketch of the taks 1 OOP">
       <option name="closed" value="true" />
@@ -116,11 +129,30 @@
       <option name="project" value="LOCAL" />
       <updated>1697989288346</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="belive working task, that help me to take good mark">
+      <option name="closed" value="true" />
+      <created>1699218503826</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1699218503826</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="sketch of the taks 1 OOP" />

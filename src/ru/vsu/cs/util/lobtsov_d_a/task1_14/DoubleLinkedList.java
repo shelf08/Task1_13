@@ -161,17 +161,17 @@ public class DoubleLinkedList<T> {
     protected Node<T> getNode(int i) {
         if (i >= size || i < 0) throw new IndexOutOfBoundsException("Index Out Of Bounds");
 
-        int j = i;
+        int i_ = i;
         Node<T> node;
-        if (j < size / 2) {
+        if (i_ < size / 2) {
             node = root;
-            while (j-- != 0) {
+            while (i_-- != 0) {
                 node = node.next;
             }
         } else {
             node = tail;
-            j = size - 1 - j;
-            while (j-- != 0) {
+            i_ = size - 1 - i_;
+            while (i_-- != 0) {
                 node = node.previous;
             }
         }
