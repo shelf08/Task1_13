@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4f6e2d15-421c-4de2-98af-8e83f1bb9442" name="Changes" comment="belive working task, that help me to take good mark">
+    <list default="true" id="4f6e2d15-421c-4de2-98af-8e83f1bb9442" name="Changes" comment="cycle was reworked">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/vsu/cs/util/lobtsov_d_a/task1_14/CycleLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/vsu/cs/util/lobtsov_d_a/task1_14/CycleLinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/vsu/cs/util/lobtsov_d_a/task1_14/DoubleLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/vsu/cs/util/lobtsov_d_a/task1_14/DoubleLinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/vsu/cs/util/lobtsov_d_a/task1_14/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/vsu/cs/util/lobtsov_d_a/task1_14/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,7 +108,11 @@
       <workItem from="1701247592316" duration="1251000" />
       <workItem from="1701356803943" duration="35000" />
       <workItem from="1701614359458" duration="438000" />
-      <workItem from="1701623455130" duration="669000" />
+      <workItem from="1701623455130" duration="963000" />
+      <workItem from="1701718127472" duration="13000" />
+      <workItem from="1705481089227" duration="1704000" />
+      <workItem from="1705500260234" duration="616000" />
+      <workItem from="1705514402278" duration="1425000" />
     </task>
     <task id="LOCAL-00001" summary="sketch of the taks 1 OOP">
       <option name="closed" value="true" />
@@ -137,7 +138,15 @@
       <option name="project" value="LOCAL" />
       <updated>1699218503826</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="cycle was reworked">
+      <option name="closed" value="true" />
+      <created>1701624262171</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1701624262171</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -157,6 +166,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="sketch of the taks 1 OOP" />
     <MESSAGE value="belive working task, that help me to take good mark" />
-    <option name="LAST_COMMIT_MESSAGE" value="belive working task, that help me to take good mark" />
+    <MESSAGE value="cycle was reworked" />
+    <option name="LAST_COMMIT_MESSAGE" value="cycle was reworked" />
   </component>
 </project>
